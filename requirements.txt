@@ -1,0 +1,19 @@
+# Multi-Agent Research Lab - Dependencies
+# Python 3.10+
+
+# Core frameworks
+langchain==0.1.0
+langchain-community==0.0.20
+
+# HuggingFace integration
+huggingface_hub>=0.19.0
+
+# Search tool
+duckduckgo-search
+
+# Data manipulation
+pandas
+
+# Optional but recommended
+jupyter
+notebook
