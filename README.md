@@ -137,20 +137,6 @@ To change topics, modify the `RESEARCH_TOPIC` variable in Cell 5 of the notebook
 
 ---
 
-## 📏 Evaluation
-
-| Criterion | Points | Status |
-|-----------|--------|--------|
-| Setup & Configuration | 4/4 | ✅ |
-| Multi-agent collaboration | 6/6 | ✅ |
-| Researcher retrieves data | 3/3 | ✅ |
-| Writer generates text | 3/3 | ✅ |
-| Reviewer provides feedback | 2/2 | ✅ |
-| Markdown summary quality | 2/2 | ✅ |
-| **TOTAL** | **20/20** | ✅ |
-
----
-
 ## 🔧 Requirements
 
 - Python 3.10 or higher
@@ -168,7 +154,7 @@ This project is part of an academic assignment for Data Science Python coursewor
 
 ## 👤 Author
 
-**Bianca**  
+**Bianca Peraltilla**  
 Data Science Python - Homework 5  
 November 2025
 
